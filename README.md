@@ -18,8 +18,6 @@ mostafaesam.farhat@gmail.com-------------------
 
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostafaessam7&theme=radical)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafaessam7&theme=radical)
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2>
@@ -98,17 +96,14 @@ mostafaesam.farhat@gmail.com-------------------
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
 
 <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100">
-<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif
-" width="100">
+<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100">
 
-   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
    
    
-   
-   <br><br>
-
 <br><br>
+
 
 </p>
 <br>
