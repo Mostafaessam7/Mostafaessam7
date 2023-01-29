@@ -4,7 +4,7 @@ Hi, I'm Mostafa Essam!
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;++++++++++++++++++++Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;++++++++++++++++++++)](https://git.io/typing-svg)
 
 ```
 mostafaesam.farhat@gmail.com-------------------
