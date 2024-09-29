@@ -10,7 +10,6 @@ Hi, I'm Mostafa Essam!
 mostafaesam.farhat@gmail.com-------------------
 💻 I am a self taught Full Stack Developer
 📝 I have a strong interest in Angular and ASP .Net Core
-🔭 Working on Unionaire
 🌱 Learning about Angular and ASP .Net Core
 🌟 Main languages: C#, JavaScript
 🚩 Interested in Full Stack .Net Application development
